@@ -1,9 +1,9 @@
 # Paris Deno
 Ce dépôt est dédié aux soumissions de talks pour le meetup Paris Deno.
 
-🇫🇷 Envie de soumettre un talk ? C'est par [ici](https://github.com/ParisDeno/talks/issues/new?template=talk.md) !
+🇫🇷 Envie de soumettre un talk ? C'est par [ici](https://github.com/ParisDeno/talks/issues/new/choose) !
 
-🇬🇧 Want to submit a talk? Go [here](https://github.com/ParisDeno/talks/issues/new?template=talk-en.md)!
+🇬🇧 Want to submit a talk? Go [here](https://github.com/ParisDeno/talks/issues/new/choose)!
 
 ## Liens utiles
 - [Website](http://www.deno.paris)
