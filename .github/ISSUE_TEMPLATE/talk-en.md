@@ -1,4 +1,4 @@
-# Talk proposal - Paris TypeScript
+# Talk proposal - Paris Deno
 
 ## Talk description
 * Title:
