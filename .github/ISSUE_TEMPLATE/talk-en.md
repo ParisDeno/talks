@@ -1,3 +1,11 @@
+---
+name: Talk proposal
+about: English talk proposal template.
+title: "[TALK TITLE]"
+labels: proposal
+assignees: bios21, spontoreau
+---
+
 # Talk proposal - Paris Deno
 
 ## Talk description
