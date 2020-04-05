@@ -1,4 +1,4 @@
-# Proposition de talk - Paris TypeScript
+# Proposition de talk - Paris Deno
 
 ## Description du talk
 * Titre :
