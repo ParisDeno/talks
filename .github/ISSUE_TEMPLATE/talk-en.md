@@ -3,7 +3,7 @@ name: Talk proposal
 about: English talk proposal template.
 title: "[TALK TITLE]"
 labels: proposal
-assignees: bios21, spontoreau
+assignees: lsagetlethias, spontoreau
 ---
 
 # Talk proposal - Paris Deno
