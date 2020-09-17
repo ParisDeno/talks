@@ -3,7 +3,7 @@ name: Proposition de talk
 about: Template français de proposition de talk.
 title: "[TITRE TALK]"
 labels: proposal
-assignees: bios21, spontoreau
+assignees: lsagetlethias, spontoreau
 ---
 
 # Proposition de talk - Paris Deno
